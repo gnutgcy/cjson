@@ -20,8 +20,8 @@
   THE SOFTWARE.
 */
 
-#ifndef GCY_CJSON_H
-#define GCY_CJSON_H
+#ifndef GCY_JSON_H
+#define GCY_JSON_H
 
 #include <string.h>
 
